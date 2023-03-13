@@ -1,0 +1,89 @@
+{
+  "Data":[
+      {
+          "id":1,
+          "name":"LEXAR 32GB JUMPDRIVE M25 USB 2.0 (Black)",
+          "imgUrl":"https://shop.ricecity.in/wp-content/uploads/2021/08/m25-2.jpg",
+          "cashback":"₹11.55 CASHBACK",
+          "title":"All Products",
+          "price":"₹400"
+
+  },
+  {
+      "id":2,
+      "name":"pTron Dynamo Pro 10000mAh 18W qc3.0 PD Power Bank",
+      "imgUrl":"https://shop.ricecity.in/wp-content/uploads/2021/08/DynamoPro_ricecity-3-300x300.jpg",
+      "cashback":"₹11.55 CASHBACK",
+      "title":"All Products",
+      "price":"₹652.60"
+
+},
+{
+  "id":3,
+  "name":"Zebronices Wireless BT Headphone With Mic Zeb-Thunder",
+  "imgUrl":"https://shop.ricecity.in/wp-content/uploads/2021/08/zeb-thunder-2-300x300.jpg",
+  "cashback":"₹11.55 CASHBACK",
+  "title":"All Products",
+  "price":"₹749.00"
+
+}, {
+  "id":4,
+  "name":"ZEBRONICS 10.000mAH POWER BANK ZEB-MD1000063 ",
+  "imgUrl":"https://shop.ricecity.in/wp-content/uploads/2021/08/zeb10kG-2-300x300.jpeg",
+  "cashback":"₹11.55 CASHBACK",
+  "title":"All Products",
+  "price":"₹650.00"
+
+}, {
+  "id":5,
+  "name":"SAMSUNG 32GB EVO Plus Grade 1, CLASS-10 (MB-MC32GA/IN)",
+  "imgUrl":"https://shop.ricecity.in/wp-content/uploads/2021/08/32gbevo-2-300x300.jpg",
+  "cashback":"₹11.55 CASHBACK",
+  "title":"All Products",
+  "price":"₹399.00"
+
+}, {
+  "id":6,
+  "name":"Ubon CL-5450 High Bass Neckband With Quick Charge",
+  "imgUrl":"https://shop.ricecity.in/wp-content/uploads/2021/07/Ubon-CL-5450-4-300x300.jpg",
+  "cashback":"₹24.00 CASHBACK",
+  "title":"All Products",
+  "price":"₹800.00"
+
+}, {
+  "id":7,
+  "name":"Kingston DataTraveler 64GB USB 3.1/3.0 Flash Drive(Gray)",
+  "imgUrl":"https://shop.ricecity.in/wp-content/uploads/2021/07/64GB-USB-3.13-4-300x300.jpg",
+  "cashback":"₹11.55 CASHBACK",
+  "title":"All Products",
+  "price":"₹699.00"
+
+}, {
+  "id":8,
+  "name":"USB Bluetooth Dongle 4.1+EDR",
+  "imgUrl":"https://shop.ricecity.in/wp-content/uploads/2021/07/4.1EDR-300x300.jpeg",
+  "cashback":"₹11.55 CASHBACK",
+  "title":"All Products",
+  "price":"₹149.00"
+
+}, {
+  "id":9,
+  "name":"Ubon GP311E/Chanmp-Big Daddy Bass",
+  "imgUrl":"https://shop.ricecity.in/wp-content/uploads/2021/07/GP-331E-2-300x300.jpeg",
+  "cashback":"₹11.55 CASHBACK",
+  "title":"All Products",
+  "price":"₹85.00"
+
+}, {
+  "id":10,
+  "name":"Ubon OG-51/Champ OG Silver",
+  "imgUrl":"https://shop.ricecity.in/wp-content/uploads/2021/07/OG-51-1-300x300.jpg",
+  "cashback":"₹3.57 CASHBACK",
+  "title":"All Products",
+  "price":"₹119.00"
+
+}
+
+  ]
+
+}
